@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a001f9-49cf-41e4-b404-0a5d48ee0a49" name="Changes" comment="ist code">
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Prac002.py" afterDir="false" />
+    <list default="true" id="b0a001f9-49cf-41e4-b404-0a5d48ee0a49" name="Changes" comment="Practice">
+      <change afterPath="$PROJECT_DIR$/Ex07062024/Prac001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex07062024/prac002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,18 +40,21 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2hMa4MJJmGxlSXX8h5IGcNKvDoZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Prac001.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Prac001.executor": "Run",
+    "Python.Prac002.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,11 +87,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717407195937</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1718176819722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718176819722</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ist code" />
-    <option name="LAST_COMMIT_MESSAGE" value="ist code" />
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
   </component>
 </project>
