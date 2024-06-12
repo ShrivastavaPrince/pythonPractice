@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0a001f9-49cf-41e4-b404-0a5d48ee0a49" name="Changes" comment="Task">
-      <change afterPath="$PROJECT_DIR$/Task10062024/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task10June2024/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task10062024/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task12062024/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Prac001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Prac001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Prac002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Prac002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/Prac003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Prac003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/prac004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/prac004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/prac005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/prac005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/prac006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/prac006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/prac007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/prac007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/prac008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/prac008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex07062024/prac009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/prac009.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +60,8 @@
     "Python.Prac001.executor": "Run",
     "Python.Prac002.executor": "Run",
     "Python.Prac003.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
     "Python.prac002.executor": "Run",
     "Python.prac004.executor": "Run",
     "Python.prac005.executor": "Run",
@@ -206,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718185186149</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Task">
+      <option name="closed" value="true" />
+      <created>1718185463190</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718185463190</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
