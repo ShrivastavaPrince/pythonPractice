@@ -3,6 +3,8 @@
 mystring = "Hello World"
 print(mystring)
 
+print(mystring[4])
+
 char=mystring[0]
 char1=mystring[2]
 char2=mystring[4]
