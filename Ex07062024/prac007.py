@@ -12,3 +12,7 @@ print(mystring[::4])
 #print(mystring[start: stop : step size])
 
 print(mystring[2:8:3])
+
+# reverse the string using stepsize
+
+print(mystring[::-1])
