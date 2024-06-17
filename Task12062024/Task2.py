@@ -1,4 +1,4 @@
-#Triangle classifier
+#Triangle classifier code
 
 a = float(input("Enter the length of side a: "))
 b = float(input("Enter the length of side b: "))
