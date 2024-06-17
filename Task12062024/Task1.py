@@ -1,4 +1,4 @@
-#leap year
+#leap year checker
 
 year = int(input("Enter a year: "))
 
