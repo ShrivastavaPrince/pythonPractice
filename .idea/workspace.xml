@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a001f9-49cf-41e4-b404-0a5d48ee0a49" name="Changes" comment="Task">
-      <change afterPath="$PROJECT_DIR$/Task12062024/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task12062024/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task12062024/Task1.py" afterDir="false" />
-    </list>
+    <list default="true" id="b0a001f9-49cf-41e4-b404-0a5d48ee0a49" name="Changes" comment="Fibonacci" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +51,7 @@
     "Python.Prac003.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
+    "Python.Task4.executor": "Run",
     "Python.prac002.executor": "Run",
     "Python.prac004.executor": "Run",
     "Python.prac005.executor": "Run",
@@ -225,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718191885320</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Fibonacci">
+      <option name="closed" value="true" />
+      <created>1718583569162</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1718583569162</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,6 +243,7 @@
     <MESSAGE value="string properties" />
     <MESSAGE value="Print formatting with Strings" />
     <MESSAGE value="Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task" />
+    <MESSAGE value="Fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci" />
   </component>
 </project>
